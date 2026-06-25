@@ -3,6 +3,7 @@
 OmniGuard XDR is a next-generation Extended Detection and Response platform that leverages Federated Learning and PyTorch Neural Networks for privacy-preserving, real-time cyber threat detection. The architecture pairs a high-performance Python FastAPI backend with a zero-latency Next.js Security Operations Center (SOC) dashboard.
 
 
+
 ![OmniGuard XDR Dashboard](assets/Omniguard-dash.png)
 
 ## Core Architecture
