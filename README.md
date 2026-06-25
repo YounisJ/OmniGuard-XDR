@@ -6,7 +6,6 @@ OmniGuard XDR is a next-generation Extended Detection and Response platform that
 
 ## Core Architecture
 
-
 ### 1. Deep Learning Threat Detection
 The system integrates a custom PyTorch `NetworkTransformer` architecture designed to process live network traffic flows (simulated via the NSL-KDD dataset). Incoming packets are converted into numerical tensors and passed through a forward network to generate mathematically rigorous threat probability scores.
 
