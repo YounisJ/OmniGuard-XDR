@@ -4,6 +4,7 @@ OmniGuard XDR is a next-generation Extended Detection and Response platform that
 
 
 
+
 ![OmniGuard XDR Dashboard](assets/Omniguard-dash.png)
 
 ## Core Architecture
